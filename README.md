@@ -17,5 +17,5 @@ This project contains a simple digital clock and analog clock application built 
 ## Contribution
 
 We welcome any contributions. If you want to make fixes, add features, or translate the project to another language, please open a Pull Request.
-
+![](/ss.png)
 
